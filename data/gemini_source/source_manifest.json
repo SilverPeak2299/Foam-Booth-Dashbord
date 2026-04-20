@@ -1,0 +1,19 @@
+{
+  "dropped_fields": [
+    "Co./Last Name"
+  ],
+  "generated_at": "2026-04-20T01:25:11.102283+00:00",
+  "output": "data/gemini_source/stage_1_output_no_customer.csv",
+  "output_fields": [
+    "",
+    "Date",
+    "Invoice #",
+    "Item Number",
+    "Quantity",
+    "Description",
+    "Price",
+    "Total"
+  ],
+  "rows": 83107,
+  "source": "data/stage_1_output.txt"
+}
