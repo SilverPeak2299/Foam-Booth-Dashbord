@@ -6,10 +6,10 @@ This repository is public and the dashboard is intended for public GitHub Pages 
 
 No PII should be committed to this repo or emitted into the built static site.
 
-Blocked from this repo and from deployed artifacts:
+Blocked from deployed artifacts and from any unsanitized source committed to this repo:
 
 - Raw customer names.
-- Raw free-text descriptions.
+- Raw free-text descriptions, except for the committed no-customer working CSV used to reproduce semantic extraction.
 - Raw sales exports containing customer names or descriptions.
 - Reversible customer mapping tables.
 - Banking/account details from descriptions.
@@ -57,6 +57,13 @@ Public dashboard artifacts should be aggregate-only JSON files, such as:
 - `fabric_environment.json`
 - `data_quality.json`
 - `source_manifest.json`
+
+Current committed semantic dataset:
+
+- `data/gemini_source/stage_1_output_no_customer.csv` is the no-customer source CSV used for deterministic repair and validation. It keeps descriptions because the semantic extraction still needs them, but the customer column has been removed.
+- `data/gemini_output/semantic_line_items.jsonl` is the v1 semantic extraction currently used by the dashboard build.
+- `scripts/patch_v1_semantic_unknowns.py` deterministically repairs v1 unknown rows and foam indoor/outdoor labels before dashboard aggregates are built.
+- `data/gemini_output/v1_unknown_patch_report.json` records the patch counts and remaining unknown examples.
 
 Allowed public fields:
 
@@ -132,4 +139,3 @@ Fabric indoor/outdoor classification is an inference, not a fact:
 - Known outdoor-suitable brands/terms such as Sunbrella and Dickson can be high-confidence signals.
 - Explicit outdoor wording in a fabric description can be medium-to-high confidence.
 - Same-invoice association with outdoor foam is only low confidence because customers may use outdoor fabrics indoors.
-

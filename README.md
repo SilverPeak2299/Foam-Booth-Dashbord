@@ -10,6 +10,13 @@ Build aggregate dashboard data:
 python3 scripts/build_dashboard_data.py
 ```
 
+Repair the current v1 semantic extraction before rebuilding:
+
+```bash
+python3 scripts/patch_v1_semantic_unknowns.py
+python3 scripts/build_dashboard_data.py
+```
+
 Serve the static dashboard:
 
 ```bash
