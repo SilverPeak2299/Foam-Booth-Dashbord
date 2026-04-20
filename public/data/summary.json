@@ -1,0 +1,31 @@
+{
+  "average_confidence": 0.685,
+  "category_counts": {
+    "banking_non_product": 1686,
+    "covers_upholstery": 8811,
+    "dacron": 11175,
+    "delivery": 1911,
+    "discount": 3308,
+    "fabric": 2964,
+    "foam": 35242,
+    "other_product": 704,
+    "unknown": 17306
+  },
+  "date_max": "2025-05-02",
+  "date_min": "2006-11-09",
+  "generated_at": "2026-04-20T02:09:08.735062+00:00",
+  "gross_positive_revenue": 11362047.87,
+  "gross_total": 11069273.62,
+  "invoice_count": 39231,
+  "product_revenue": 8199143.61,
+  "review_needed_count": 17306,
+  "review_needed_rate": 0.2082,
+  "row_count": 83107,
+  "semantic_summary_notes": [
+    "Heuristic-based extraction for foam codes and dimensions.",
+    "Fabric environment inferred from brands and invoice context.",
+    "Review needed flagged for unknown categories and low confidence matches."
+  ],
+  "source": "data/gemini_output/semantic_line_items.jsonl",
+  "validation_integrity_passed": true
+}

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Foam Booth Sales Dashboard</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Foam Booth</p>
+        <h1>Sales Analytics</h1>
+      </div>
+      <div class="status" id="dataStatus">Loading data</div>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="Date filters">
+        <label>
+          Start month
+          <input id="startMonth" type="month" />
+        </label>
+        <label>
+          End month
+          <input id="endMonth" type="month" />
+        </label>
+        <button id="resetDates" type="button">All dates</button>
+      </section>
+
+      <nav class="tabs" aria-label="Analytics tabs">
+        <button class="tab active" data-tab="overview" type="button">Overview</button>
+        <button class="tab" data-tab="sales" type="button">Sales Trends</button>
+        <button class="tab" data-tab="foam" type="button">Foam Analytics</button>
+        <button class="tab" data-tab="fabric" type="button">Fabric Analytics</button>
+        <button class="tab" data-tab="mix" type="button">Product Mix</button>
+        <button class="tab" data-tab="quality" type="button">Data Quality</button>
+      </nav>
+
+      <section id="overview" class="panel active"></section>
+      <section id="sales" class="panel"></section>
+      <section id="foam" class="panel"></section>
+      <section id="fabric" class="panel"></section>
+      <section id="mix" class="panel"></section>
+      <section id="quality" class="panel"></section>
+    </main>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
+

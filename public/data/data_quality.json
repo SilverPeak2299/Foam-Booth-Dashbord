@@ -1,0 +1,327 @@
+{
+  "confidence_distribution": {
+    "0.5": 17126,
+    "0.6": 22192,
+    "0.8": 43789
+  },
+  "dimension_quality_examples": [
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 51,
+        "length": 1000,
+        "width": 2
+      },
+      "evidence": [
+        "2.0\" thickness",
+        "1000x2 dimensions"
+      ],
+      "source_row_id": 0
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 127,
+        "length": 135,
+        "width": 2
+      },
+      "evidence": [
+        "5.0\" thickness",
+        "135x2 dimensions"
+      ],
+      "source_row_id": 24
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 152,
+        "length": 65,
+        "width": 1
+      },
+      "evidence": [
+        "6.0\" thickness",
+        "65x1 dimensions"
+      ],
+      "source_row_id": 35
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 102,
+        "length": 30,
+        "width": 1
+      },
+      "evidence": [
+        "4.0\" thickness",
+        "30x1 dimensions"
+      ],
+      "source_row_id": 38
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 152,
+        "length": 76,
+        "width": 2
+      },
+      "evidence": [
+        "6.0\" thickness",
+        "76x2 dimensions"
+      ],
+      "source_row_id": 53
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 102,
+        "length": 65,
+        "width": 2
+      },
+      "evidence": [
+        "4.0\" thickness",
+        "65x2 dimensions"
+      ],
+      "source_row_id": 58
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 51,
+        "length": 55,
+        "width": 2
+      },
+      "evidence": [
+        "2.0\" thickness",
+        "55x2 dimensions"
+      ],
+      "source_row_id": 61
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 102,
+        "length": 28,
+        "width": 1
+      },
+      "evidence": [
+        "4.0\" thickness",
+        "28x1 dimensions"
+      ],
+      "source_row_id": 70
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 102,
+        "length": 67,
+        "width": 1
+      },
+      "evidence": [
+        "4.0\" thickness",
+        "67x1 dimensions"
+      ],
+      "source_row_id": 95
+    },
+    {
+      "category": "foam",
+      "dimensions_mm": {
+        "height": 102,
+        "length": 51,
+        "width": 1
+      },
+      "evidence": [
+        "4.0\" thickness",
+        "51x1 dimensions"
+      ],
+      "source_row_id": 101
+    }
+  ],
+  "low_confidence_not_reviewed": {
+    "foam": 22192
+  },
+  "review_by_category": {
+    "unknown": 17306
+  },
+  "validation": {
+    "category_counts": {
+      "banking_non_product": 1686,
+      "covers_upholstery": 8811,
+      "dacron": 11175,
+      "delivery": 1911,
+      "discount": 3308,
+      "fabric": 2964,
+      "foam": 35242,
+      "other_product": 704,
+      "unknown": 17306
+    },
+    "confidence_values": {
+      "0.5": 17126,
+      "0.6": 22192,
+      "0.8": 42789,
+      "0.85": 1000
+    },
+    "dimension_quality_examples": [
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 51,
+          "length": 1000,
+          "width": 2
+        },
+        "evidence": [
+          "2.0\" thickness",
+          "1000x2 dimensions"
+        ],
+        "source_row_id": 0
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 127,
+          "length": 135,
+          "width": 2
+        },
+        "evidence": [
+          "5.0\" thickness",
+          "135x2 dimensions"
+        ],
+        "source_row_id": 24
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 152,
+          "length": 65,
+          "width": 1
+        },
+        "evidence": [
+          "6.0\" thickness",
+          "65x1 dimensions"
+        ],
+        "source_row_id": 35
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 102,
+          "length": 30,
+          "width": 1
+        },
+        "evidence": [
+          "4.0\" thickness",
+          "30x1 dimensions"
+        ],
+        "source_row_id": 38
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 152,
+          "length": 76,
+          "width": 2
+        },
+        "evidence": [
+          "6.0\" thickness",
+          "76x2 dimensions"
+        ],
+        "source_row_id": 53
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 102,
+          "length": 65,
+          "width": 2
+        },
+        "evidence": [
+          "4.0\" thickness",
+          "65x2 dimensions"
+        ],
+        "source_row_id": 58
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 51,
+          "length": 55,
+          "width": 2
+        },
+        "evidence": [
+          "2.0\" thickness",
+          "55x2 dimensions"
+        ],
+        "source_row_id": 61
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 102,
+          "length": 28,
+          "width": 1
+        },
+        "evidence": [
+          "4.0\" thickness",
+          "28x1 dimensions"
+        ],
+        "source_row_id": 70
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 102,
+          "length": 67,
+          "width": 1
+        },
+        "evidence": [
+          "4.0\" thickness",
+          "67x1 dimensions"
+        ],
+        "source_row_id": 95
+      },
+      {
+        "category": "foam",
+        "dimensions_mm": {
+          "height": 102,
+          "length": 51,
+          "width": 1
+        },
+        "evidence": [
+          "4.0\" thickness",
+          "51x1 dimensions"
+        ],
+        "source_row_id": 101
+      }
+    ],
+    "duplicate_source_row_id_count": 0,
+    "extra_keys": {},
+    "extra_source_row_id_count": 0,
+    "invalid_category_count": 0,
+    "invalid_json_count": 0,
+    "jsonl_records": 83107,
+    "low_confidence_not_reviewed": {
+      "foam": 22192
+    },
+    "missing_required_fields": {},
+    "missing_source_row_id_count": 0,
+    "notes": [
+      "Integrity passed: every source row has exactly one valid JSONL record.",
+      "Summary source_row_count appears to include the CSV header; processed_row_count matches data rows.",
+      "Prompt requested review_needed below 0.70 confidence, but some low-confidence rows are not marked for review.",
+      "Dimension parsing has suspicious examples where piece counts are treated as dimensions."
+    ],
+    "passed_integrity": true,
+    "review_csv_headers": [
+      "source_row_id",
+      "date",
+      "invoice_id",
+      "item_number",
+      "description",
+      "reason"
+    ],
+    "review_csv_rows": 17306,
+    "review_needed_true": 17306,
+    "source_rows": 83107,
+    "summary_processed_row_count": 83107,
+    "summary_source_row_count": 83108
+  }
+}

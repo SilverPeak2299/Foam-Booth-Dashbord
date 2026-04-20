@@ -1,0 +1,5007 @@
+{
+  "environment": [
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 1172,
+      "key": "outdoor_suitable",
+      "line_count": 1423,
+      "revenue": 375849.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 1366,
+      "key": "unknown",
+      "line_count": 1541,
+      "revenue": 285580.96
+    }
+  ],
+  "environment_monthly": [
+    {
+      "avg_confidence": 0.85,
+      "environment": "unknown",
+      "invoice_count": 1,
+      "key": "2009-06|unknown",
+      "line_count": 1,
+      "month": "2009-06",
+      "revenue": 254.54
+    },
+    {
+      "avg_confidence": 0.85,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2009-07|unknown",
+      "line_count": 4,
+      "month": "2009-07",
+      "revenue": 336.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2009-08|outdoor_suitable",
+      "line_count": 1,
+      "month": "2009-08",
+      "revenue": 68.18
+    },
+    {
+      "avg_confidence": 0.808,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2009-08|unknown",
+      "line_count": 6,
+      "month": "2009-08",
+      "revenue": 587.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 1,
+      "key": "2009-09|unknown",
+      "line_count": 1,
+      "month": "2009-09",
+      "revenue": 227.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2009-10|outdoor_suitable",
+      "line_count": 1,
+      "month": "2009-10",
+      "revenue": 0.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2009-10|unknown",
+      "line_count": 2,
+      "month": "2009-10",
+      "revenue": 283.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2009-11|outdoor_suitable",
+      "line_count": 3,
+      "month": "2009-11",
+      "revenue": 317.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2009-11|unknown",
+      "line_count": 4,
+      "month": "2009-11",
+      "revenue": 863.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2009-12|outdoor_suitable",
+      "line_count": 4,
+      "month": "2009-12",
+      "revenue": 429.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2009-12|unknown",
+      "line_count": 3,
+      "month": "2009-12",
+      "revenue": 874.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2010-01|unknown",
+      "line_count": 2,
+      "month": "2010-01",
+      "revenue": 638.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2010-02|outdoor_suitable",
+      "line_count": 5,
+      "month": "2010-02",
+      "revenue": 762.74
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2010-02|unknown",
+      "line_count": 9,
+      "month": "2010-02",
+      "revenue": 935.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2010-03|outdoor_suitable",
+      "line_count": 6,
+      "month": "2010-03",
+      "revenue": 1288.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2010-03|unknown",
+      "line_count": 4,
+      "month": "2010-03",
+      "revenue": 438.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2010-04|outdoor_suitable",
+      "line_count": 2,
+      "month": "2010-04",
+      "revenue": 500.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2010-04|unknown",
+      "line_count": 2,
+      "month": "2010-04",
+      "revenue": 120.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2010-05|outdoor_suitable",
+      "line_count": 5,
+      "month": "2010-05",
+      "revenue": 1295.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2010-05|unknown",
+      "line_count": 4,
+      "month": "2010-05",
+      "revenue": 693.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2010-06|unknown",
+      "line_count": 7,
+      "month": "2010-06",
+      "revenue": 243.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2010-07|unknown",
+      "line_count": 2,
+      "month": "2010-07",
+      "revenue": 275.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2010-08|outdoor_suitable",
+      "line_count": 3,
+      "month": "2010-08",
+      "revenue": 670.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2010-08|unknown",
+      "line_count": 4,
+      "month": "2010-08",
+      "revenue": 430.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2010-09|outdoor_suitable",
+      "line_count": 7,
+      "month": "2010-09",
+      "revenue": 2069.11
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2010-09|unknown",
+      "line_count": 5,
+      "month": "2010-09",
+      "revenue": 240.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2010-10|outdoor_suitable",
+      "line_count": 7,
+      "month": "2010-10",
+      "revenue": 2816.35
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2010-10|unknown",
+      "line_count": 8,
+      "month": "2010-10",
+      "revenue": 1054.56
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2010-11|outdoor_suitable",
+      "line_count": 7,
+      "month": "2010-11",
+      "revenue": 1754.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2010-11|unknown",
+      "line_count": 4,
+      "month": "2010-11",
+      "revenue": 993.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2010-12|outdoor_suitable",
+      "line_count": 8,
+      "month": "2010-12",
+      "revenue": 1649.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2010-12|unknown",
+      "line_count": 2,
+      "month": "2010-12",
+      "revenue": 641.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2011-01|outdoor_suitable",
+      "line_count": 8,
+      "month": "2011-01",
+      "revenue": 1149.99
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2011-01|unknown",
+      "line_count": 6,
+      "month": "2011-01",
+      "revenue": 536.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2011-02|outdoor_suitable",
+      "line_count": 12,
+      "month": "2011-02",
+      "revenue": 3006.35
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2011-02|unknown",
+      "line_count": 8,
+      "month": "2011-02",
+      "revenue": 1100.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2011-03|outdoor_suitable",
+      "line_count": 4,
+      "month": "2011-03",
+      "revenue": 993.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2011-03|unknown",
+      "line_count": 3,
+      "month": "2011-03",
+      "revenue": 912.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2011-04|outdoor_suitable",
+      "line_count": 2,
+      "month": "2011-04",
+      "revenue": 230.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2011-04|unknown",
+      "line_count": 4,
+      "month": "2011-04",
+      "revenue": 1197.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2011-05|outdoor_suitable",
+      "line_count": 5,
+      "month": "2011-05",
+      "revenue": 2125.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2011-05|unknown",
+      "line_count": 8,
+      "month": "2011-05",
+      "revenue": 885.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2011-06|outdoor_suitable",
+      "line_count": 13,
+      "month": "2011-06",
+      "revenue": 1882.74
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2011-06|unknown",
+      "line_count": 5,
+      "month": "2011-06",
+      "revenue": 576.35
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2011-07|outdoor_suitable",
+      "line_count": 3,
+      "month": "2011-07",
+      "revenue": 741.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2011-07|unknown",
+      "line_count": 2,
+      "month": "2011-07",
+      "revenue": 118.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2011-08|outdoor_suitable",
+      "line_count": 2,
+      "month": "2011-08",
+      "revenue": 470.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2011-08|unknown",
+      "line_count": 5,
+      "month": "2011-08",
+      "revenue": 668.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2011-09|outdoor_suitable",
+      "line_count": 9,
+      "month": "2011-09",
+      "revenue": 2250.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2011-09|unknown",
+      "line_count": 9,
+      "month": "2011-09",
+      "revenue": 1344.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2011-10|outdoor_suitable",
+      "line_count": 9,
+      "month": "2011-10",
+      "revenue": 3137.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2011-10|unknown",
+      "line_count": 6,
+      "month": "2011-10",
+      "revenue": 780.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2011-11|outdoor_suitable",
+      "line_count": 13,
+      "month": "2011-11",
+      "revenue": 2760.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2011-11|unknown",
+      "line_count": 6,
+      "month": "2011-11",
+      "revenue": 1318.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 9,
+      "key": "2011-12|outdoor_suitable",
+      "line_count": 9,
+      "month": "2011-12",
+      "revenue": 1864.57
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2011-12|unknown",
+      "line_count": 3,
+      "month": "2011-12",
+      "revenue": 667.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2012-01|outdoor_suitable",
+      "line_count": 5,
+      "month": "2012-01",
+      "revenue": 654.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2012-01|unknown",
+      "line_count": 7,
+      "month": "2012-01",
+      "revenue": 1600.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2012-02|outdoor_suitable",
+      "line_count": 2,
+      "month": "2012-02",
+      "revenue": 427.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2012-02|unknown",
+      "line_count": 7,
+      "month": "2012-02",
+      "revenue": 894.53
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2012-03|outdoor_suitable",
+      "line_count": 3,
+      "month": "2012-03",
+      "revenue": 450.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2012-03|unknown",
+      "line_count": 10,
+      "month": "2012-03",
+      "revenue": 1798.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2012-04|outdoor_suitable",
+      "line_count": 3,
+      "month": "2012-04",
+      "revenue": 726.35
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2012-04|unknown",
+      "line_count": 3,
+      "month": "2012-04",
+      "revenue": 354.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2012-05|outdoor_suitable",
+      "line_count": 7,
+      "month": "2012-05",
+      "revenue": 1593.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 1,
+      "key": "2012-05|unknown",
+      "line_count": 1,
+      "month": "2012-05",
+      "revenue": 0.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2012-06|outdoor_suitable",
+      "line_count": 4,
+      "month": "2012-06",
+      "revenue": 1730.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2012-06|unknown",
+      "line_count": 4,
+      "month": "2012-06",
+      "revenue": 467.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2012-07|outdoor_suitable",
+      "line_count": 6,
+      "month": "2012-07",
+      "revenue": 617.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2012-07|unknown",
+      "line_count": 7,
+      "month": "2012-07",
+      "revenue": 620.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2012-08|outdoor_suitable",
+      "line_count": 5,
+      "month": "2012-08",
+      "revenue": 847.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2012-08|unknown",
+      "line_count": 3,
+      "month": "2012-08",
+      "revenue": 536.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2012-09|outdoor_suitable",
+      "line_count": 7,
+      "month": "2012-09",
+      "revenue": 1261.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2012-09|unknown",
+      "line_count": 4,
+      "month": "2012-09",
+      "revenue": 492.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 13,
+      "key": "2012-10|outdoor_suitable",
+      "line_count": 13,
+      "month": "2012-10",
+      "revenue": 2688.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2012-10|unknown",
+      "line_count": 8,
+      "month": "2012-10",
+      "revenue": 1197.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2012-11|outdoor_suitable",
+      "line_count": 13,
+      "month": "2012-11",
+      "revenue": 3306.34
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2012-11|unknown",
+      "line_count": 6,
+      "month": "2012-11",
+      "revenue": 1256.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2012-12|outdoor_suitable",
+      "line_count": 5,
+      "month": "2012-12",
+      "revenue": 899.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2012-12|unknown",
+      "line_count": 8,
+      "month": "2012-12",
+      "revenue": 813.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2013-01|outdoor_suitable",
+      "line_count": 12,
+      "month": "2013-01",
+      "revenue": 2558.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2013-01|unknown",
+      "line_count": 7,
+      "month": "2013-01",
+      "revenue": 952.74
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2013-02|outdoor_suitable",
+      "line_count": 2,
+      "month": "2013-02",
+      "revenue": 385.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2013-02|unknown",
+      "line_count": 5,
+      "month": "2013-02",
+      "revenue": 229.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2013-03|outdoor_suitable",
+      "line_count": 8,
+      "month": "2013-03",
+      "revenue": 1818.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2013-03|unknown",
+      "line_count": 12,
+      "month": "2013-03",
+      "revenue": 1500.89
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2013-04|outdoor_suitable",
+      "line_count": 1,
+      "month": "2013-04",
+      "revenue": 618.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2013-04|unknown",
+      "line_count": 8,
+      "month": "2013-04",
+      "revenue": 2230.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2013-05|outdoor_suitable",
+      "line_count": 5,
+      "month": "2013-05",
+      "revenue": 817.29
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2013-05|unknown",
+      "line_count": 6,
+      "month": "2013-05",
+      "revenue": 215.47
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2013-06|unknown",
+      "line_count": 2,
+      "month": "2013-06",
+      "revenue": 572.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2013-07|outdoor_suitable",
+      "line_count": 3,
+      "month": "2013-07",
+      "revenue": 1506.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2013-07|unknown",
+      "line_count": 5,
+      "month": "2013-07",
+      "revenue": 431.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2013-08|outdoor_suitable",
+      "line_count": 13,
+      "month": "2013-08",
+      "revenue": 3113.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2013-08|unknown",
+      "line_count": 4,
+      "month": "2013-08",
+      "revenue": 805.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 9,
+      "key": "2013-09|outdoor_suitable",
+      "line_count": 9,
+      "month": "2013-09",
+      "revenue": 3712.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2013-09|unknown",
+      "line_count": 4,
+      "month": "2013-09",
+      "revenue": 314.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2013-10|outdoor_suitable",
+      "line_count": 5,
+      "month": "2013-10",
+      "revenue": 646.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2013-10|unknown",
+      "line_count": 7,
+      "month": "2013-10",
+      "revenue": 1535.47
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2013-11|outdoor_suitable",
+      "line_count": 12,
+      "month": "2013-11",
+      "revenue": 3104.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2013-11|unknown",
+      "line_count": 12,
+      "month": "2013-11",
+      "revenue": 1557.3
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2013-12|outdoor_suitable",
+      "line_count": 10,
+      "month": "2013-12",
+      "revenue": 2073.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2013-12|unknown",
+      "line_count": 4,
+      "month": "2013-12",
+      "revenue": 745.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2014-01|outdoor_suitable",
+      "line_count": 4,
+      "month": "2014-01",
+      "revenue": 512.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2014-01|unknown",
+      "line_count": 12,
+      "month": "2014-01",
+      "revenue": 1407.29
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2014-02|outdoor_suitable",
+      "line_count": 9,
+      "month": "2014-02",
+      "revenue": 2027.26
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2014-02|unknown",
+      "line_count": 8,
+      "month": "2014-02",
+      "revenue": 1907.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2014-03|outdoor_suitable",
+      "line_count": 5,
+      "month": "2014-03",
+      "revenue": 1291.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2014-03|unknown",
+      "line_count": 10,
+      "month": "2014-03",
+      "revenue": 1830.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2014-04|outdoor_suitable",
+      "line_count": 6,
+      "month": "2014-04",
+      "revenue": 1167.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2014-04|unknown",
+      "line_count": 12,
+      "month": "2014-04",
+      "revenue": 1008.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2014-05|outdoor_suitable",
+      "line_count": 8,
+      "month": "2014-05",
+      "revenue": 2918.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2014-05|unknown",
+      "line_count": 8,
+      "month": "2014-05",
+      "revenue": 1283.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2014-06|unknown",
+      "line_count": 4,
+      "month": "2014-06",
+      "revenue": 460.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2014-07|outdoor_suitable",
+      "line_count": 9,
+      "month": "2014-07",
+      "revenue": 1268.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2014-07|unknown",
+      "line_count": 9,
+      "month": "2014-07",
+      "revenue": 740.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2014-08|outdoor_suitable",
+      "line_count": 16,
+      "month": "2014-08",
+      "revenue": 3428.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2014-08|unknown",
+      "line_count": 8,
+      "month": "2014-08",
+      "revenue": 739.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2014-09|outdoor_suitable",
+      "line_count": 7,
+      "month": "2014-09",
+      "revenue": 1358.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2014-09|unknown",
+      "line_count": 9,
+      "month": "2014-09",
+      "revenue": 1389.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2014-10|outdoor_suitable",
+      "line_count": 6,
+      "month": "2014-10",
+      "revenue": 1377.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2014-10|unknown",
+      "line_count": 5,
+      "month": "2014-10",
+      "revenue": 1308.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 17,
+      "key": "2014-11|outdoor_suitable",
+      "line_count": 18,
+      "month": "2014-11",
+      "revenue": 5007.26
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 12,
+      "key": "2014-11|unknown",
+      "line_count": 14,
+      "month": "2014-11",
+      "revenue": 3469.99
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2014-12|outdoor_suitable",
+      "line_count": 7,
+      "month": "2014-12",
+      "revenue": 1962.71
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2014-12|unknown",
+      "line_count": 3,
+      "month": "2014-12",
+      "revenue": 556.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 13,
+      "key": "2015-01|outdoor_suitable",
+      "line_count": 15,
+      "month": "2015-01",
+      "revenue": 5296.38
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2015-01|unknown",
+      "line_count": 6,
+      "month": "2015-01",
+      "revenue": 1671.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2015-02|outdoor_suitable",
+      "line_count": 6,
+      "month": "2015-02",
+      "revenue": 1590.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2015-02|unknown",
+      "line_count": 10,
+      "month": "2015-02",
+      "revenue": 1181.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2015-03|outdoor_suitable",
+      "line_count": 5,
+      "month": "2015-03",
+      "revenue": 1522.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2015-03|unknown",
+      "line_count": 6,
+      "month": "2015-03",
+      "revenue": 872.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2015-04|outdoor_suitable",
+      "line_count": 5,
+      "month": "2015-04",
+      "revenue": 726.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 1,
+      "key": "2015-04|unknown",
+      "line_count": 1,
+      "month": "2015-04",
+      "revenue": 89.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2015-05|outdoor_suitable",
+      "line_count": 10,
+      "month": "2015-05",
+      "revenue": 778.87
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2015-05|unknown",
+      "line_count": 13,
+      "month": "2015-05",
+      "revenue": 1782.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2015-06|outdoor_suitable",
+      "line_count": 6,
+      "month": "2015-06",
+      "revenue": 1710.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2015-06|unknown",
+      "line_count": 9,
+      "month": "2015-06",
+      "revenue": 1580.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2015-07|outdoor_suitable",
+      "line_count": 6,
+      "month": "2015-07",
+      "revenue": 1103.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2015-07|unknown",
+      "line_count": 9,
+      "month": "2015-07",
+      "revenue": 2210.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2015-08|outdoor_suitable",
+      "line_count": 7,
+      "month": "2015-08",
+      "revenue": 1653.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 13,
+      "key": "2015-08|unknown",
+      "line_count": 16,
+      "month": "2015-08",
+      "revenue": 5144.53
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2015-09|outdoor_suitable",
+      "line_count": 6,
+      "month": "2015-09",
+      "revenue": 1627.29
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2015-09|unknown",
+      "line_count": 5,
+      "month": "2015-09",
+      "revenue": 709.99
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 14,
+      "key": "2015-10|outdoor_suitable",
+      "line_count": 17,
+      "month": "2015-10",
+      "revenue": 2763.62
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2015-10|unknown",
+      "line_count": 11,
+      "month": "2015-10",
+      "revenue": 2819.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 14,
+      "key": "2015-11|outdoor_suitable",
+      "line_count": 16,
+      "month": "2015-11",
+      "revenue": 4313.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 13,
+      "key": "2015-11|unknown",
+      "line_count": 14,
+      "month": "2015-11",
+      "revenue": 1778.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2015-12|outdoor_suitable",
+      "line_count": 8,
+      "month": "2015-12",
+      "revenue": 2039.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2015-12|unknown",
+      "line_count": 7,
+      "month": "2015-12",
+      "revenue": 967.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2016-01|outdoor_suitable",
+      "line_count": 10,
+      "month": "2016-01",
+      "revenue": 2645.48
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 14,
+      "key": "2016-01|unknown",
+      "line_count": 15,
+      "month": "2016-01",
+      "revenue": 2440.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2016-02|outdoor_suitable",
+      "line_count": 6,
+      "month": "2016-02",
+      "revenue": 2070.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2016-02|unknown",
+      "line_count": 12,
+      "month": "2016-02",
+      "revenue": 2960.04
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2016-03|outdoor_suitable",
+      "line_count": 8,
+      "month": "2016-03",
+      "revenue": 2191.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2016-03|unknown",
+      "line_count": 11,
+      "month": "2016-03",
+      "revenue": 2178.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2016-04|outdoor_suitable",
+      "line_count": 9,
+      "month": "2016-04",
+      "revenue": 2613.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2016-04|unknown",
+      "line_count": 6,
+      "month": "2016-04",
+      "revenue": 1795.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2016-05|outdoor_suitable",
+      "line_count": 6,
+      "month": "2016-05",
+      "revenue": 1155.43
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2016-05|unknown",
+      "line_count": 7,
+      "month": "2016-05",
+      "revenue": 2099.99
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2016-06|outdoor_suitable",
+      "line_count": 4,
+      "month": "2016-06",
+      "revenue": 1433.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2016-06|unknown",
+      "line_count": 10,
+      "month": "2016-06",
+      "revenue": 1222.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2016-07|outdoor_suitable",
+      "line_count": 5,
+      "month": "2016-07",
+      "revenue": 1211.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2016-07|unknown",
+      "line_count": 11,
+      "month": "2016-07",
+      "revenue": 3193.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 13,
+      "key": "2016-08|outdoor_suitable",
+      "line_count": 15,
+      "month": "2016-08",
+      "revenue": 3228.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2016-08|unknown",
+      "line_count": 12,
+      "month": "2016-08",
+      "revenue": 3930.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 15,
+      "key": "2016-09|outdoor_suitable",
+      "line_count": 16,
+      "month": "2016-09",
+      "revenue": 3668.62
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2016-09|unknown",
+      "line_count": 11,
+      "month": "2016-09",
+      "revenue": 1500.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 19,
+      "key": "2016-10|outdoor_suitable",
+      "line_count": 20,
+      "month": "2016-10",
+      "revenue": 5639.97
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 22,
+      "key": "2016-10|unknown",
+      "line_count": 24,
+      "month": "2016-10",
+      "revenue": 3541.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 27,
+      "key": "2016-11|outdoor_suitable",
+      "line_count": 32,
+      "month": "2016-11",
+      "revenue": 8224.57
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2016-11|unknown",
+      "line_count": 10,
+      "month": "2016-11",
+      "revenue": 1050.02
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2016-12|outdoor_suitable",
+      "line_count": 5,
+      "month": "2016-12",
+      "revenue": 1170.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2016-12|unknown",
+      "line_count": 9,
+      "month": "2016-12",
+      "revenue": 2081.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2017-01|outdoor_suitable",
+      "line_count": 11,
+      "month": "2017-01",
+      "revenue": 2300.42
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2017-01|unknown",
+      "line_count": 10,
+      "month": "2017-01",
+      "revenue": 1195.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2017-02|outdoor_suitable",
+      "line_count": 3,
+      "month": "2017-02",
+      "revenue": 893.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2017-02|unknown",
+      "line_count": 7,
+      "month": "2017-02",
+      "revenue": 1354.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 9,
+      "key": "2017-03|outdoor_suitable",
+      "line_count": 14,
+      "month": "2017-03",
+      "revenue": 4010.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2017-03|unknown",
+      "line_count": 9,
+      "month": "2017-03",
+      "revenue": 2710.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2017-04|outdoor_suitable",
+      "line_count": 3,
+      "month": "2017-04",
+      "revenue": 285.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2017-04|unknown",
+      "line_count": 5,
+      "month": "2017-04",
+      "revenue": 1384.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2017-05|outdoor_suitable",
+      "line_count": 5,
+      "month": "2017-05",
+      "revenue": 1252.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2017-05|unknown",
+      "line_count": 3,
+      "month": "2017-05",
+      "revenue": 206.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2017-06|outdoor_suitable",
+      "line_count": 9,
+      "month": "2017-06",
+      "revenue": 1615.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 13,
+      "key": "2017-06|unknown",
+      "line_count": 16,
+      "month": "2017-06",
+      "revenue": 4082.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2017-07|outdoor_suitable",
+      "line_count": 6,
+      "month": "2017-07",
+      "revenue": 824.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 15,
+      "key": "2017-07|unknown",
+      "line_count": 16,
+      "month": "2017-07",
+      "revenue": 2352.26
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2017-08|outdoor_suitable",
+      "line_count": 10,
+      "month": "2017-08",
+      "revenue": 2517.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2017-08|unknown",
+      "line_count": 11,
+      "month": "2017-08",
+      "revenue": 2129.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2017-09|outdoor_suitable",
+      "line_count": 8,
+      "month": "2017-09",
+      "revenue": 2040.9
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2017-09|unknown",
+      "line_count": 11,
+      "month": "2017-09",
+      "revenue": 2793.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2017-10|outdoor_suitable",
+      "line_count": 13,
+      "month": "2017-10",
+      "revenue": 4075.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2017-10|unknown",
+      "line_count": 9,
+      "month": "2017-10",
+      "revenue": 1621.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 24,
+      "key": "2017-11|outdoor_suitable",
+      "line_count": 31,
+      "month": "2017-11",
+      "revenue": 8579.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 12,
+      "key": "2017-11|unknown",
+      "line_count": 13,
+      "month": "2017-11",
+      "revenue": 2880.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2017-12|outdoor_suitable",
+      "line_count": 10,
+      "month": "2017-12",
+      "revenue": 2148.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2017-12|unknown",
+      "line_count": 2,
+      "month": "2017-12",
+      "revenue": 372.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2018-01|outdoor_suitable",
+      "line_count": 8,
+      "month": "2018-01",
+      "revenue": 1332.74
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2018-01|unknown",
+      "line_count": 10,
+      "month": "2018-01",
+      "revenue": 2372.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2018-02|outdoor_suitable",
+      "line_count": 14,
+      "month": "2018-02",
+      "revenue": 4005.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2018-02|unknown",
+      "line_count": 3,
+      "month": "2018-02",
+      "revenue": 266.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2018-03|outdoor_suitable",
+      "line_count": 7,
+      "month": "2018-03",
+      "revenue": 2158.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2018-03|unknown",
+      "line_count": 16,
+      "month": "2018-03",
+      "revenue": 2785.47
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2018-04|outdoor_suitable",
+      "line_count": 5,
+      "month": "2018-04",
+      "revenue": 845.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2018-04|unknown",
+      "line_count": 6,
+      "month": "2018-04",
+      "revenue": 920.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2018-05|outdoor_suitable",
+      "line_count": 8,
+      "month": "2018-05",
+      "revenue": 1020.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2018-05|unknown",
+      "line_count": 8,
+      "month": "2018-05",
+      "revenue": 1919.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2018-06|outdoor_suitable",
+      "line_count": 2,
+      "month": "2018-06",
+      "revenue": 349.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2018-06|unknown",
+      "line_count": 6,
+      "month": "2018-06",
+      "revenue": 1004.07
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2018-07|outdoor_suitable",
+      "line_count": 3,
+      "month": "2018-07",
+      "revenue": 384.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2018-07|unknown",
+      "line_count": 6,
+      "month": "2018-07",
+      "revenue": 1243.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2018-08|outdoor_suitable",
+      "line_count": 3,
+      "month": "2018-08",
+      "revenue": 609.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2018-08|unknown",
+      "line_count": 12,
+      "month": "2018-08",
+      "revenue": 1825.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2018-09|outdoor_suitable",
+      "line_count": 10,
+      "month": "2018-09",
+      "revenue": 2304.07
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2018-09|unknown",
+      "line_count": 8,
+      "month": "2018-09",
+      "revenue": 1523.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2018-10|outdoor_suitable",
+      "line_count": 10,
+      "month": "2018-10",
+      "revenue": 2705.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2018-10|unknown",
+      "line_count": 12,
+      "month": "2018-10",
+      "revenue": 2171.38
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 13,
+      "key": "2018-11|outdoor_suitable",
+      "line_count": 16,
+      "month": "2018-11",
+      "revenue": 4670.9
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2018-11|unknown",
+      "line_count": 10,
+      "month": "2018-11",
+      "revenue": 963.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2018-12|outdoor_suitable",
+      "line_count": 11,
+      "month": "2018-12",
+      "revenue": 2801.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2018-12|unknown",
+      "line_count": 6,
+      "month": "2018-12",
+      "revenue": 1471.38
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2019-01|outdoor_suitable",
+      "line_count": 8,
+      "month": "2019-01",
+      "revenue": 1643.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2019-01|unknown",
+      "line_count": 10,
+      "month": "2019-01",
+      "revenue": 2136.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2019-02|outdoor_suitable",
+      "line_count": 10,
+      "month": "2019-02",
+      "revenue": 2306.71
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2019-02|unknown",
+      "line_count": 8,
+      "month": "2019-02",
+      "revenue": 1395.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2019-03|outdoor_suitable",
+      "line_count": 4,
+      "month": "2019-03",
+      "revenue": 1399.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2019-03|unknown",
+      "line_count": 2,
+      "month": "2019-03",
+      "revenue": 378.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2019-04|outdoor_suitable",
+      "line_count": 3,
+      "month": "2019-04",
+      "revenue": 421.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2019-04|unknown",
+      "line_count": 11,
+      "month": "2019-04",
+      "revenue": 922.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2019-05|outdoor_suitable",
+      "line_count": 1,
+      "month": "2019-05",
+      "revenue": 380.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2019-05|unknown",
+      "line_count": 7,
+      "month": "2019-05",
+      "revenue": 1681.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2019-06|outdoor_suitable",
+      "line_count": 1,
+      "month": "2019-06",
+      "revenue": 313.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2019-06|unknown",
+      "line_count": 7,
+      "month": "2019-06",
+      "revenue": 1295.44
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2019-07|outdoor_suitable",
+      "line_count": 1,
+      "month": "2019-07",
+      "revenue": 0.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2019-07|unknown",
+      "line_count": 10,
+      "month": "2019-07",
+      "revenue": 1937.74
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2019-08|outdoor_suitable",
+      "line_count": 4,
+      "month": "2019-08",
+      "revenue": 1749.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2019-08|unknown",
+      "line_count": 5,
+      "month": "2019-08",
+      "revenue": 1198.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2019-09|outdoor_suitable",
+      "line_count": 4,
+      "month": "2019-09",
+      "revenue": 1964.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2019-09|unknown",
+      "line_count": 5,
+      "month": "2019-09",
+      "revenue": 939.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2019-10|outdoor_suitable",
+      "line_count": 8,
+      "month": "2019-10",
+      "revenue": 2225.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2019-10|unknown",
+      "line_count": 8,
+      "month": "2019-10",
+      "revenue": 1445.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2019-11|outdoor_suitable",
+      "line_count": 12,
+      "month": "2019-11",
+      "revenue": 4099.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 13,
+      "key": "2019-11|unknown",
+      "line_count": 14,
+      "month": "2019-11",
+      "revenue": 2439.11
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2019-12|outdoor_suitable",
+      "line_count": 6,
+      "month": "2019-12",
+      "revenue": 2653.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2019-12|unknown",
+      "line_count": 7,
+      "month": "2019-12",
+      "revenue": 1958.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2020-01|outdoor_suitable",
+      "line_count": 16,
+      "month": "2020-01",
+      "revenue": 2742.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2020-01|unknown",
+      "line_count": 9,
+      "month": "2020-01",
+      "revenue": 1100.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2020-02|outdoor_suitable",
+      "line_count": 8,
+      "month": "2020-02",
+      "revenue": 2206.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2020-02|unknown",
+      "line_count": 11,
+      "month": "2020-02",
+      "revenue": 1030.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2020-03|outdoor_suitable",
+      "line_count": 2,
+      "month": "2020-03",
+      "revenue": 952.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2020-03|unknown",
+      "line_count": 5,
+      "month": "2020-03",
+      "revenue": 1580.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2020-04|outdoor_suitable",
+      "line_count": 4,
+      "month": "2020-04",
+      "revenue": 468.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2020-04|unknown",
+      "line_count": 3,
+      "month": "2020-04",
+      "revenue": 410.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2020-05|outdoor_suitable",
+      "line_count": 5,
+      "month": "2020-05",
+      "revenue": 1379.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2020-05|unknown",
+      "line_count": 5,
+      "month": "2020-05",
+      "revenue": 860.93
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2020-06|outdoor_suitable",
+      "line_count": 2,
+      "month": "2020-06",
+      "revenue": 826.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2020-06|unknown",
+      "line_count": 9,
+      "month": "2020-06",
+      "revenue": 872.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2020-07|outdoor_suitable",
+      "line_count": 4,
+      "month": "2020-07",
+      "revenue": 719.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2020-07|unknown",
+      "line_count": 6,
+      "month": "2020-07",
+      "revenue": 1143.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2020-08|outdoor_suitable",
+      "line_count": 9,
+      "month": "2020-08",
+      "revenue": 2684.56
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2020-08|unknown",
+      "line_count": 7,
+      "month": "2020-08",
+      "revenue": 1769.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2020-09|outdoor_suitable",
+      "line_count": 11,
+      "month": "2020-09",
+      "revenue": 3241.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 6,
+      "key": "2020-09|unknown",
+      "line_count": 8,
+      "month": "2020-09",
+      "revenue": 931.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2020-10|outdoor_suitable",
+      "line_count": 8,
+      "month": "2020-10",
+      "revenue": 3011.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2020-10|unknown",
+      "line_count": 11,
+      "month": "2020-10",
+      "revenue": 1137.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2020-11|outdoor_suitable",
+      "line_count": 13,
+      "month": "2020-11",
+      "revenue": 4669.98
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2020-11|unknown",
+      "line_count": 7,
+      "month": "2020-11",
+      "revenue": 1139.07
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2020-12|outdoor_suitable",
+      "line_count": 9,
+      "month": "2020-12",
+      "revenue": 2886.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2020-12|unknown",
+      "line_count": 6,
+      "month": "2020-12",
+      "revenue": 1015.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2021-01|outdoor_suitable",
+      "line_count": 9,
+      "month": "2021-01",
+      "revenue": 2696.35
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2021-01|unknown",
+      "line_count": 5,
+      "month": "2021-01",
+      "revenue": 1271.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 9,
+      "key": "2021-02|outdoor_suitable",
+      "line_count": 12,
+      "month": "2021-02",
+      "revenue": 2483.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2021-02|unknown",
+      "line_count": 8,
+      "month": "2021-02",
+      "revenue": 2073.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2021-03|outdoor_suitable",
+      "line_count": 9,
+      "month": "2021-03",
+      "revenue": 1478.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2021-03|unknown",
+      "line_count": 9,
+      "month": "2021-03",
+      "revenue": 1800.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2021-04|outdoor_suitable",
+      "line_count": 11,
+      "month": "2021-04",
+      "revenue": 4432.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2021-04|unknown",
+      "line_count": 11,
+      "month": "2021-04",
+      "revenue": 1637.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2021-05|outdoor_suitable",
+      "line_count": 1,
+      "month": "2021-05",
+      "revenue": 0.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2021-05|unknown",
+      "line_count": 7,
+      "month": "2021-05",
+      "revenue": 985.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2021-06|outdoor_suitable",
+      "line_count": 2,
+      "month": "2021-06",
+      "revenue": 345.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2021-06|unknown",
+      "line_count": 4,
+      "month": "2021-06",
+      "revenue": 741.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2021-07|outdoor_suitable",
+      "line_count": 4,
+      "month": "2021-07",
+      "revenue": 606.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2021-07|unknown",
+      "line_count": 4,
+      "month": "2021-07",
+      "revenue": 634.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2021-08|outdoor_suitable",
+      "line_count": 3,
+      "month": "2021-08",
+      "revenue": 826.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 1,
+      "key": "2021-08|unknown",
+      "line_count": 2,
+      "month": "2021-08",
+      "revenue": 136.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 15,
+      "key": "2021-09|outdoor_suitable",
+      "line_count": 18,
+      "month": "2021-09",
+      "revenue": 6058.74
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2021-09|unknown",
+      "line_count": 5,
+      "month": "2021-09",
+      "revenue": 1398.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 17,
+      "key": "2021-10|outdoor_suitable",
+      "line_count": 23,
+      "month": "2021-10",
+      "revenue": 6247.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 15,
+      "key": "2021-10|unknown",
+      "line_count": 17,
+      "month": "2021-10",
+      "revenue": 4294.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2021-11|outdoor_suitable",
+      "line_count": 11,
+      "month": "2021-11",
+      "revenue": 3390.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 13,
+      "key": "2021-11|unknown",
+      "line_count": 17,
+      "month": "2021-11",
+      "revenue": 2778.2
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2021-12|outdoor_suitable",
+      "line_count": 5,
+      "month": "2021-12",
+      "revenue": 497.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2021-12|unknown",
+      "line_count": 11,
+      "month": "2021-12",
+      "revenue": 1600.89
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2022-01|outdoor_suitable",
+      "line_count": 8,
+      "month": "2022-01",
+      "revenue": 1396.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 3,
+      "key": "2022-01|unknown",
+      "line_count": 4,
+      "month": "2022-01",
+      "revenue": 159.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2022-02|outdoor_suitable",
+      "line_count": 5,
+      "month": "2022-02",
+      "revenue": 1415.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2022-02|unknown",
+      "line_count": 9,
+      "month": "2022-02",
+      "revenue": 1763.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2022-03|outdoor_suitable",
+      "line_count": 5,
+      "month": "2022-03",
+      "revenue": 1681.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 12,
+      "key": "2022-03|unknown",
+      "line_count": 12,
+      "month": "2022-03",
+      "revenue": 2248.16
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2022-04|outdoor_suitable",
+      "line_count": 9,
+      "month": "2022-04",
+      "revenue": 2592.75
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2022-04|unknown",
+      "line_count": 7,
+      "month": "2022-04",
+      "revenue": 539.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2022-05|outdoor_suitable",
+      "line_count": 5,
+      "month": "2022-05",
+      "revenue": 1897.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 13,
+      "key": "2022-05|unknown",
+      "line_count": 17,
+      "month": "2022-05",
+      "revenue": 2591.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2022-06|outdoor_suitable",
+      "line_count": 4,
+      "month": "2022-06",
+      "revenue": 799.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 20,
+      "key": "2022-06|unknown",
+      "line_count": 22,
+      "month": "2022-06",
+      "revenue": 5605.43
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2022-07|outdoor_suitable",
+      "line_count": 3,
+      "month": "2022-07",
+      "revenue": 609.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 18,
+      "key": "2022-07|unknown",
+      "line_count": 19,
+      "month": "2022-07",
+      "revenue": 4268.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2022-08|outdoor_suitable",
+      "line_count": 15,
+      "month": "2022-08",
+      "revenue": 3119.99
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2022-08|unknown",
+      "line_count": 9,
+      "month": "2022-08",
+      "revenue": 3112.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 9,
+      "key": "2022-09|outdoor_suitable",
+      "line_count": 13,
+      "month": "2022-09",
+      "revenue": 3773.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2022-09|unknown",
+      "line_count": 11,
+      "month": "2022-09",
+      "revenue": 863.62
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 15,
+      "key": "2022-10|outdoor_suitable",
+      "line_count": 15,
+      "month": "2022-10",
+      "revenue": 4224.58
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2022-10|unknown",
+      "line_count": 12,
+      "month": "2022-10",
+      "revenue": 3551.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 15,
+      "key": "2022-11|outdoor_suitable",
+      "line_count": 16,
+      "month": "2022-11",
+      "revenue": 5863.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2022-11|unknown",
+      "line_count": 11,
+      "month": "2022-11",
+      "revenue": 2391.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2022-12|outdoor_suitable",
+      "line_count": 6,
+      "month": "2022-12",
+      "revenue": 2179.99
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 2,
+      "key": "2022-12|unknown",
+      "line_count": 4,
+      "month": "2022-12",
+      "revenue": 153.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2023-01|outdoor_suitable",
+      "line_count": 7,
+      "month": "2023-01",
+      "revenue": 2189.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 16,
+      "key": "2023-01|unknown",
+      "line_count": 17,
+      "month": "2023-01",
+      "revenue": 3827.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2023-02|outdoor_suitable",
+      "line_count": 7,
+      "month": "2023-02",
+      "revenue": 2312.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2023-02|unknown",
+      "line_count": 12,
+      "month": "2023-02",
+      "revenue": 1961.8
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2023-03|outdoor_suitable",
+      "line_count": 18,
+      "month": "2023-03",
+      "revenue": 5227.26
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2023-03|unknown",
+      "line_count": 11,
+      "month": "2023-03",
+      "revenue": 2313.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2023-04|outdoor_suitable",
+      "line_count": 6,
+      "month": "2023-04",
+      "revenue": 2389.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2023-04|unknown",
+      "line_count": 10,
+      "month": "2023-04",
+      "revenue": 1683.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2023-05|outdoor_suitable",
+      "line_count": 4,
+      "month": "2023-05",
+      "revenue": 1255.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2023-05|unknown",
+      "line_count": 11,
+      "month": "2023-05",
+      "revenue": 1906.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2023-06|outdoor_suitable",
+      "line_count": 3,
+      "month": "2023-06",
+      "revenue": 1453.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 1,
+      "key": "2023-06|unknown",
+      "line_count": 1,
+      "month": "2023-06",
+      "revenue": 160.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 1,
+      "key": "2023-07|outdoor_suitable",
+      "line_count": 1,
+      "month": "2023-07",
+      "revenue": 60.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2023-07|unknown",
+      "line_count": 7,
+      "month": "2023-07",
+      "revenue": 1761.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 4,
+      "key": "2023-08|outdoor_suitable",
+      "line_count": 4,
+      "month": "2023-08",
+      "revenue": 2424.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2023-08|unknown",
+      "line_count": 12,
+      "month": "2023-08",
+      "revenue": 3104.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2023-09|outdoor_suitable",
+      "line_count": 12,
+      "month": "2023-09",
+      "revenue": 4233.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2023-09|unknown",
+      "line_count": 13,
+      "month": "2023-09",
+      "revenue": 3260.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2023-10|outdoor_suitable",
+      "line_count": 9,
+      "month": "2023-10",
+      "revenue": 2253.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2023-10|unknown",
+      "line_count": 5,
+      "month": "2023-10",
+      "revenue": 1070.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 11,
+      "key": "2023-11|outdoor_suitable",
+      "line_count": 13,
+      "month": "2023-11",
+      "revenue": 4414.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2023-11|unknown",
+      "line_count": 12,
+      "month": "2023-11",
+      "revenue": 2910.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2023-12|outdoor_suitable",
+      "line_count": 8,
+      "month": "2023-12",
+      "revenue": 3320.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 4,
+      "key": "2023-12|unknown",
+      "line_count": 4,
+      "month": "2023-12",
+      "revenue": 1379.99
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2024-01|outdoor_suitable",
+      "line_count": 13,
+      "month": "2024-01",
+      "revenue": 2949.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2024-01|unknown",
+      "line_count": 9,
+      "month": "2024-01",
+      "revenue": 969.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2024-02|outdoor_suitable",
+      "line_count": 8,
+      "month": "2024-02",
+      "revenue": 2433.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 10,
+      "key": "2024-02|unknown",
+      "line_count": 10,
+      "month": "2024-02",
+      "revenue": 2581.84
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 7,
+      "key": "2024-03|outdoor_suitable",
+      "line_count": 9,
+      "month": "2024-03",
+      "revenue": 3168.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 11,
+      "key": "2024-03|unknown",
+      "line_count": 12,
+      "month": "2024-03",
+      "revenue": 1789.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2024-04|outdoor_suitable",
+      "line_count": 5,
+      "month": "2024-04",
+      "revenue": 1711.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2024-04|unknown",
+      "line_count": 8,
+      "month": "2024-04",
+      "revenue": 1999.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2024-05|unknown",
+      "line_count": 9,
+      "month": "2024-05",
+      "revenue": 851.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2024-06|outdoor_suitable",
+      "line_count": 2,
+      "month": "2024-06",
+      "revenue": 957.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2024-06|unknown",
+      "line_count": 8,
+      "month": "2024-06",
+      "revenue": 1836.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2024-07|outdoor_suitable",
+      "line_count": 4,
+      "month": "2024-07",
+      "revenue": 942.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2024-07|unknown",
+      "line_count": 8,
+      "month": "2024-07",
+      "revenue": 1364.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2024-08|outdoor_suitable",
+      "line_count": 7,
+      "month": "2024-08",
+      "revenue": 2520.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 14,
+      "key": "2024-08|unknown",
+      "line_count": 16,
+      "month": "2024-08",
+      "revenue": 3411.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 10,
+      "key": "2024-09|outdoor_suitable",
+      "line_count": 12,
+      "month": "2024-09",
+      "revenue": 4356.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2024-09|unknown",
+      "line_count": 10,
+      "month": "2024-09",
+      "revenue": 2777.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 8,
+      "key": "2024-10|outdoor_suitable",
+      "line_count": 10,
+      "month": "2024-10",
+      "revenue": 3537.3
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 8,
+      "key": "2024-10|unknown",
+      "line_count": 11,
+      "month": "2024-10",
+      "revenue": 1978.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 6,
+      "key": "2024-11|outdoor_suitable",
+      "line_count": 7,
+      "month": "2024-11",
+      "revenue": 1780.89
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 5,
+      "key": "2024-11|unknown",
+      "line_count": 9,
+      "month": "2024-11",
+      "revenue": 4530.9
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2024-12|outdoor_suitable",
+      "line_count": 4,
+      "month": "2024-12",
+      "revenue": 1433.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2024-12|unknown",
+      "line_count": 10,
+      "month": "2024-12",
+      "revenue": 1875.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 9,
+      "key": "2025-01|outdoor_suitable",
+      "line_count": 13,
+      "month": "2025-01",
+      "revenue": 4443.62
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 12,
+      "key": "2025-01|unknown",
+      "line_count": 15,
+      "month": "2025-01",
+      "revenue": 2982.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 5,
+      "key": "2025-02|outdoor_suitable",
+      "line_count": 6,
+      "month": "2025-02",
+      "revenue": 2458.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2025-02|unknown",
+      "line_count": 11,
+      "month": "2025-02",
+      "revenue": 2790.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "outdoor_suitable",
+      "invoice_count": 3,
+      "key": "2025-03|outdoor_suitable",
+      "line_count": 3,
+      "month": "2025-03",
+      "revenue": 1140.89
+    },
+    {
+      "avg_confidence": 0.8,
+      "environment": "unknown",
+      "invoice_count": 7,
+      "key": "2025-03|unknown",
+      "line_count": 8,
+      "month": "2025-03",
+      "revenue": 1901.81
+    },
+    {
+      "avg_confidence": 0.825,
+      "environment": "outdoor_suitable",
+      "invoice_count": 2,
+      "key": "2025-04|outdoor_suitable",
+      "line_count": 4,
+      "month": "2025-04",
+      "revenue": 696.36
+    },
+    {
+      "avg_confidence": 0.811,
+      "environment": "unknown",
+      "invoice_count": 9,
+      "key": "2025-04|unknown",
+      "line_count": 9,
+      "month": "2025-04",
+      "revenue": 1460.01
+    }
+  ],
+  "monthly": [
+    {
+      "avg_confidence": 0.85,
+      "invoice_count": 1,
+      "key": "2009-06",
+      "line_count": 1,
+      "revenue": 254.54
+    },
+    {
+      "avg_confidence": 0.85,
+      "invoice_count": 4,
+      "key": "2009-07",
+      "line_count": 4,
+      "revenue": 336.37
+    },
+    {
+      "avg_confidence": 0.807,
+      "invoice_count": 6,
+      "key": "2009-08",
+      "line_count": 7,
+      "revenue": 655.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 1,
+      "key": "2009-09",
+      "line_count": 1,
+      "revenue": 227.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 3,
+      "key": "2009-10",
+      "line_count": 3,
+      "revenue": 283.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2009-11",
+      "line_count": 7,
+      "revenue": 1180.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2009-12",
+      "line_count": 7,
+      "revenue": 1303.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 2,
+      "key": "2010-01",
+      "line_count": 2,
+      "revenue": 638.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2010-02",
+      "line_count": 14,
+      "revenue": 1697.75
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2010-03",
+      "line_count": 10,
+      "revenue": 1726.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 4,
+      "key": "2010-04",
+      "line_count": 4,
+      "revenue": 620.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2010-05",
+      "line_count": 9,
+      "revenue": 1989.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 4,
+      "key": "2010-06",
+      "line_count": 7,
+      "revenue": 243.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 2,
+      "key": "2010-07",
+      "line_count": 2,
+      "revenue": 275.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2010-08",
+      "line_count": 7,
+      "revenue": 1100.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2010-09",
+      "line_count": 12,
+      "revenue": 2310.02
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 14,
+      "key": "2010-10",
+      "line_count": 15,
+      "revenue": 3870.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2010-11",
+      "line_count": 11,
+      "revenue": 2748.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 9,
+      "key": "2010-12",
+      "line_count": 10,
+      "revenue": 2290.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2011-01",
+      "line_count": 14,
+      "revenue": 1686.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2011-02",
+      "line_count": 20,
+      "revenue": 4107.26
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2011-03",
+      "line_count": 7,
+      "revenue": 1906.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 5,
+      "key": "2011-04",
+      "line_count": 6,
+      "revenue": 1428.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2011-05",
+      "line_count": 13,
+      "revenue": 3010.9
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2011-06",
+      "line_count": 18,
+      "revenue": 2459.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 5,
+      "key": "2011-07",
+      "line_count": 5,
+      "revenue": 860.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2011-08",
+      "line_count": 7,
+      "revenue": 1138.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "2011-09",
+      "line_count": 18,
+      "revenue": 3595.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2011-10",
+      "line_count": 15,
+      "revenue": 3918.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2011-11",
+      "line_count": 19,
+      "revenue": 4079.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2011-12",
+      "line_count": 12,
+      "revenue": 2531.84
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2012-01",
+      "line_count": 12,
+      "revenue": 2254.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 9,
+      "key": "2012-02",
+      "line_count": 9,
+      "revenue": 1321.8
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2012-03",
+      "line_count": 13,
+      "revenue": 2248.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2012-04",
+      "line_count": 6,
+      "revenue": 1080.9
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2012-05",
+      "line_count": 8,
+      "revenue": 1593.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2012-06",
+      "line_count": 8,
+      "revenue": 2197.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2012-07",
+      "line_count": 13,
+      "revenue": 1238.2
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2012-08",
+      "line_count": 8,
+      "revenue": 1383.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 9,
+      "key": "2012-09",
+      "line_count": 11,
+      "revenue": 1754.53
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 20,
+      "key": "2012-10",
+      "line_count": 21,
+      "revenue": 3885.47
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2012-11",
+      "line_count": 19,
+      "revenue": 4562.7
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2012-12",
+      "line_count": 13,
+      "revenue": 1712.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 14,
+      "key": "2013-01",
+      "line_count": 19,
+      "revenue": 3510.93
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2013-02",
+      "line_count": 7,
+      "revenue": 614.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2013-03",
+      "line_count": 20,
+      "revenue": 3319.53
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 9,
+      "key": "2013-04",
+      "line_count": 9,
+      "revenue": 2849.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2013-05",
+      "line_count": 11,
+      "revenue": 1032.76
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 2,
+      "key": "2013-06",
+      "line_count": 2,
+      "revenue": 572.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2013-07",
+      "line_count": 8,
+      "revenue": 1938.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2013-08",
+      "line_count": 17,
+      "revenue": 3919.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2013-09",
+      "line_count": 13,
+      "revenue": 4027.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2013-10",
+      "line_count": 12,
+      "revenue": 2181.84
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "2013-11",
+      "line_count": 24,
+      "revenue": 4661.84
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2013-12",
+      "line_count": 14,
+      "revenue": 2819.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2014-01",
+      "line_count": 16,
+      "revenue": 1920.02
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2014-02",
+      "line_count": 17,
+      "revenue": 3934.98
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2014-03",
+      "line_count": 15,
+      "revenue": 3121.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2014-04",
+      "line_count": 18,
+      "revenue": 2175.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 14,
+      "key": "2014-05",
+      "line_count": 16,
+      "revenue": 4201.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 4,
+      "key": "2014-06",
+      "line_count": 4,
+      "revenue": 460.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2014-07",
+      "line_count": 18,
+      "revenue": 2008.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2014-08",
+      "line_count": 24,
+      "revenue": 4167.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2014-09",
+      "line_count": 16,
+      "revenue": 2747.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2014-10",
+      "line_count": 11,
+      "revenue": 2685.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 29,
+      "key": "2014-11",
+      "line_count": 32,
+      "revenue": 8477.25
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2014-12",
+      "line_count": 10,
+      "revenue": 2519.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 19,
+      "key": "2015-01",
+      "line_count": 21,
+      "revenue": 6968.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2015-02",
+      "line_count": 16,
+      "revenue": 2772.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2015-03",
+      "line_count": 11,
+      "revenue": 2395.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2015-04",
+      "line_count": 6,
+      "revenue": 815.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 19,
+      "key": "2015-05",
+      "line_count": 23,
+      "revenue": 2561.6
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2015-06",
+      "line_count": 15,
+      "revenue": 3290.92
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2015-07",
+      "line_count": 15,
+      "revenue": 3314.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 19,
+      "key": "2015-08",
+      "line_count": 23,
+      "revenue": 6798.16
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 9,
+      "key": "2015-09",
+      "line_count": 11,
+      "revenue": 2337.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 23,
+      "key": "2015-10",
+      "line_count": 28,
+      "revenue": 5582.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 27,
+      "key": "2015-11",
+      "line_count": 30,
+      "revenue": 6091.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2015-12",
+      "line_count": 15,
+      "revenue": 3006.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 20,
+      "key": "2016-01",
+      "line_count": 25,
+      "revenue": 5086.39
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2016-02",
+      "line_count": 18,
+      "revenue": 5030.05
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 16,
+      "key": "2016-03",
+      "line_count": 19,
+      "revenue": 4369.98
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2016-04",
+      "line_count": 15,
+      "revenue": 4409.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2016-05",
+      "line_count": 13,
+      "revenue": 3255.42
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2016-06",
+      "line_count": 14,
+      "revenue": 2656.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "2016-07",
+      "line_count": 16,
+      "revenue": 4405.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 23,
+      "key": "2016-08",
+      "line_count": 27,
+      "revenue": 7159.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 26,
+      "key": "2016-09",
+      "line_count": 27,
+      "revenue": 5168.62
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 40,
+      "key": "2016-10",
+      "line_count": 44,
+      "revenue": 9181.34
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 35,
+      "key": "2016-11",
+      "line_count": 42,
+      "revenue": 9274.59
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 14,
+      "key": "2016-12",
+      "line_count": 14,
+      "revenue": 3251.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 19,
+      "key": "2017-01",
+      "line_count": 21,
+      "revenue": 3495.88
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 9,
+      "key": "2017-02",
+      "line_count": 10,
+      "revenue": 2248.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "2017-03",
+      "line_count": 23,
+      "revenue": 6721.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2017-04",
+      "line_count": 8,
+      "revenue": 1670.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2017-05",
+      "line_count": 8,
+      "revenue": 1459.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 21,
+      "key": "2017-06",
+      "line_count": 25,
+      "revenue": 5697.73
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 20,
+      "key": "2017-07",
+      "line_count": 22,
+      "revenue": 3176.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 21,
+      "key": "2017-08",
+      "line_count": 21,
+      "revenue": 4646.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2017-09",
+      "line_count": 19,
+      "revenue": 4834.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2017-10",
+      "line_count": 22,
+      "revenue": 5697.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 35,
+      "key": "2017-11",
+      "line_count": 44,
+      "revenue": 11459.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2017-12",
+      "line_count": 12,
+      "revenue": 2520.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2018-01",
+      "line_count": 18,
+      "revenue": 3705.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 14,
+      "key": "2018-02",
+      "line_count": 17,
+      "revenue": 4271.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "2018-03",
+      "line_count": 23,
+      "revenue": 4943.66
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2018-04",
+      "line_count": 11,
+      "revenue": 1765.45
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2018-05",
+      "line_count": 16,
+      "revenue": 2940.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2018-06",
+      "line_count": 8,
+      "revenue": 1353.16
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 9,
+      "key": "2018-07",
+      "line_count": 9,
+      "revenue": 1628.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2018-08",
+      "line_count": 15,
+      "revenue": 2434.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2018-09",
+      "line_count": 18,
+      "revenue": 3827.26
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "2018-10",
+      "line_count": 22,
+      "revenue": 4876.84
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 23,
+      "key": "2018-11",
+      "line_count": 26,
+      "revenue": 5634.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2018-12",
+      "line_count": 17,
+      "revenue": 4273.21
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "2019-01",
+      "line_count": 18,
+      "revenue": 3780.47
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "2019-02",
+      "line_count": 18,
+      "revenue": 3702.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2019-03",
+      "line_count": 6,
+      "revenue": 1777.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2019-04",
+      "line_count": 14,
+      "revenue": 1344.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2019-05",
+      "line_count": 8,
+      "revenue": 2061.81
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2019-06",
+      "line_count": 8,
+      "revenue": 1609.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2019-07",
+      "line_count": 11,
+      "revenue": 1937.74
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2019-08",
+      "line_count": 9,
+      "revenue": 2947.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2019-09",
+      "line_count": 9,
+      "revenue": 2903.62
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 16,
+      "key": "2019-10",
+      "line_count": 16,
+      "revenue": 3671.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 24,
+      "key": "2019-11",
+      "line_count": 26,
+      "revenue": 6538.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2019-12",
+      "line_count": 13,
+      "revenue": 4611.8
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 20,
+      "key": "2020-01",
+      "line_count": 25,
+      "revenue": 3843.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 16,
+      "key": "2020-02",
+      "line_count": 19,
+      "revenue": 3236.38
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2020-03",
+      "line_count": 7,
+      "revenue": 2532.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2020-04",
+      "line_count": 7,
+      "revenue": 879.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2020-05",
+      "line_count": 10,
+      "revenue": 2240.47
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2020-06",
+      "line_count": 11,
+      "revenue": 1699.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2020-07",
+      "line_count": 10,
+      "revenue": 1862.74
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "2020-08",
+      "line_count": 16,
+      "revenue": 4453.66
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 16,
+      "key": "2020-09",
+      "line_count": 19,
+      "revenue": 4173.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "2020-10",
+      "line_count": 19,
+      "revenue": 4149.56
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "2020-11",
+      "line_count": 20,
+      "revenue": 5809.05
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2020-12",
+      "line_count": 15,
+      "revenue": 3901.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2021-01",
+      "line_count": 14,
+      "revenue": 3968.16
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 16,
+      "key": "2021-02",
+      "line_count": 20,
+      "revenue": 4557.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "2021-03",
+      "line_count": 18,
+      "revenue": 3279.1
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 16,
+      "key": "2021-04",
+      "line_count": 22,
+      "revenue": 6070.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2021-05",
+      "line_count": 8,
+      "revenue": 985.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2021-06",
+      "line_count": 6,
+      "revenue": 1087.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "2021-07",
+      "line_count": 8,
+      "revenue": 1240.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 4,
+      "key": "2021-08",
+      "line_count": 5,
+      "revenue": 962.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 19,
+      "key": "2021-09",
+      "line_count": 23,
+      "revenue": 7456.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 31,
+      "key": "2021-10",
+      "line_count": 40,
+      "revenue": 10541.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 22,
+      "key": "2021-11",
+      "line_count": 28,
+      "revenue": 6168.21
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2021-12",
+      "line_count": 16,
+      "revenue": 2098.16
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2022-01",
+      "line_count": 12,
+      "revenue": 1555.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2022-02",
+      "line_count": 14,
+      "revenue": 3178.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2022-03",
+      "line_count": 17,
+      "revenue": 3929.97
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2022-04",
+      "line_count": 16,
+      "revenue": 3131.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2022-05",
+      "line_count": 22,
+      "revenue": 4489.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 24,
+      "key": "2022-06",
+      "line_count": 26,
+      "revenue": 6404.52
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 21,
+      "key": "2022-07",
+      "line_count": 22,
+      "revenue": 4877.28
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 19,
+      "key": "2022-08",
+      "line_count": 24,
+      "revenue": 6232.71
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "2022-09",
+      "line_count": 24,
+      "revenue": 4637.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 25,
+      "key": "2022-10",
+      "line_count": 27,
+      "revenue": 7776.4
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 25,
+      "key": "2022-11",
+      "line_count": 27,
+      "revenue": 8255.48
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 6,
+      "key": "2022-12",
+      "line_count": 10,
+      "revenue": 2333.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 23,
+      "key": "2023-01",
+      "line_count": 24,
+      "revenue": 6016.37
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 14,
+      "key": "2023-02",
+      "line_count": 19,
+      "revenue": 4274.52
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 21,
+      "key": "2023-03",
+      "line_count": 29,
+      "revenue": 7540.89
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2023-04",
+      "line_count": 16,
+      "revenue": 4072.71
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2023-05",
+      "line_count": 15,
+      "revenue": 3161.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 4,
+      "key": "2023-06",
+      "line_count": 4,
+      "revenue": 1613.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "2023-07",
+      "line_count": 8,
+      "revenue": 1821.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "2023-08",
+      "line_count": 16,
+      "revenue": 5529.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 19,
+      "key": "2023-09",
+      "line_count": 25,
+      "revenue": 7493.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2023-10",
+      "line_count": 14,
+      "revenue": 3323.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 21,
+      "key": "2023-11",
+      "line_count": 25,
+      "revenue": 7325.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2023-12",
+      "line_count": 12,
+      "revenue": 4699.99
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "2024-01",
+      "line_count": 22,
+      "revenue": 3918.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "2024-02",
+      "line_count": 18,
+      "revenue": 5015.49
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "2024-03",
+      "line_count": 21,
+      "revenue": 4957.26
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2024-04",
+      "line_count": 13,
+      "revenue": 3710.91
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 9,
+      "key": "2024-05",
+      "line_count": 9,
+      "revenue": 851.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2024-06",
+      "line_count": 10,
+      "revenue": 2793.63
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2024-07",
+      "line_count": 12,
+      "revenue": 2307.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 20,
+      "key": "2024-08",
+      "line_count": 23,
+      "revenue": 5931.83
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "2024-09",
+      "line_count": 22,
+      "revenue": 7133.64
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 16,
+      "key": "2024-10",
+      "line_count": 21,
+      "revenue": 5515.48
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "2024-11",
+      "line_count": 16,
+      "revenue": 6311.79
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 12,
+      "key": "2024-12",
+      "line_count": 14,
+      "revenue": 3309.46
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 21,
+      "key": "2025-01",
+      "line_count": 28,
+      "revenue": 7426.34
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 14,
+      "key": "2025-02",
+      "line_count": 17,
+      "revenue": 5248.18
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "2025-03",
+      "line_count": 11,
+      "revenue": 3042.7
+    },
+    {
+      "avg_confidence": 0.815,
+      "invoice_count": 11,
+      "key": "2025-04",
+      "line_count": 13,
+      "revenue": 2156.37
+    }
+  ],
+  "top_brands": [
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 753,
+      "key": "Sunbrella",
+      "line_count": 885,
+      "revenue": 254213.51
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 877,
+      "key": "Warwick",
+      "line_count": 982,
+      "revenue": 199839.98
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 888,
+      "key": "unknown",
+      "line_count": 1000,
+      "revenue": 188310.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 36,
+      "key": "Dickson",
+      "line_count": 37,
+      "revenue": 8877.27
+    },
+    {
+      "avg_confidence": 0.801,
+      "invoice_count": 38,
+      "key": "Keylargo",
+      "line_count": 40,
+      "revenue": 6163.1
+    },
+    {
+      "avg_confidence": 0.804,
+      "invoice_count": 12,
+      "key": "Vistaweave",
+      "line_count": 14,
+      "revenue": 2974.57
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 1,
+      "key": "Sauleda",
+      "line_count": 1,
+      "revenue": 500.0
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 1,
+      "key": "Ashcroft",
+      "line_count": 1,
+      "revenue": 215.9
+    },
+    {
+      "avg_confidence": 0.85,
+      "invoice_count": 1,
+      "key": "Oscar",
+      "line_count": 1,
+      "revenue": 163.64
+    },
+    {
+      "avg_confidence": 0.85,
+      "invoice_count": 2,
+      "key": "Gilda",
+      "line_count": 2,
+      "revenue": 136.37
+    },
+    {
+      "avg_confidence": 0.85,
+      "invoice_count": 1,
+      "key": "Bingo",
+      "line_count": 1,
+      "revenue": 36.36
+    }
+  ],
+  "top_names": [
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 947,
+      "key": "unknown",
+      "line_count": 1066,
+      "revenue": 204488.49
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 141,
+      "key": "Canvas",
+      "line_count": 162,
+      "revenue": 51937.84
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 67,
+      "key": "Kona",
+      "line_count": 75,
+      "revenue": 16387.27
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 26,
+      "key": "Cast",
+      "line_count": 33,
+      "revenue": 11853.66
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 43,
+      "key": "Lomani",
+      "line_count": 46,
+      "revenue": 10811.79
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 39,
+      "key": "Natural",
+      "line_count": 42,
+      "revenue": 10706.84
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 52,
+      "key": "Beachcomber",
+      "line_count": 56,
+      "revenue": 10259.97
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 31,
+      "key": "Charcoal",
+      "line_count": 33,
+      "revenue": 10068.2
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 33,
+      "key": "Black",
+      "line_count": 33,
+      "revenue": 8308.16
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 23,
+      "key": "Spectrum",
+      "line_count": 26,
+      "revenue": 8028.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 24,
+      "key": "Noosa",
+      "line_count": 25,
+      "revenue": 6561.8
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "Slate",
+      "line_count": 15,
+      "revenue": 5747.26
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 23,
+      "key": "Linen",
+      "line_count": 25,
+      "revenue": 5644.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 25,
+      "key": "Fabric",
+      "line_count": 25,
+      "revenue": 4654.55
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "Sailcloth",
+      "line_count": 13,
+      "revenue": 4610.01
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 18,
+      "key": "Bondi",
+      "line_count": 19,
+      "revenue": 4519.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 15,
+      "key": "Taupe",
+      "line_count": 15,
+      "revenue": 4198.19
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "Haven",
+      "line_count": 10,
+      "revenue": 3775.47
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "Captain",
+      "line_count": 14,
+      "revenue": 3568.17
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 17,
+      "key": "Vegas",
+      "line_count": 17,
+      "revenue": 3516.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 8,
+      "key": "Silica",
+      "line_count": 9,
+      "revenue": 3459.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 16,
+      "key": "Keylargo",
+      "line_count": 18,
+      "revenue": 3397.72
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "Tresco",
+      "line_count": 10,
+      "revenue": 3329.09
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 11,
+      "key": "Washed",
+      "line_count": 11,
+      "revenue": 3219.08
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "Mindill",
+      "line_count": 10,
+      "revenue": 3066.36
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "Cadet",
+      "line_count": 15,
+      "revenue": 2853.65
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 7,
+      "key": "Icon",
+      "line_count": 9,
+      "revenue": 2634.54
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 14,
+      "key": "Plush",
+      "line_count": 14,
+      "revenue": 2626.82
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 13,
+      "key": "Aberdeen",
+      "line_count": 14,
+      "revenue": 2487.29
+    },
+    {
+      "avg_confidence": 0.8,
+      "invoice_count": 10,
+      "key": "Navy",
+      "line_count": 10,
+      "revenue": 2350.0
+    }
+  ]
+}
