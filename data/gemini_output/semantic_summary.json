@@ -1,0 +1,89 @@
+{
+  "source_file": "data/gemini_source/stage_1_output_no_customer.csv",
+  "generated_at": "2026-04-20T11:47:48.334202",
+  "source_row_count": 83108,
+  "processed_row_count": 83107,
+  "category_counts": {
+    "foam": 35242,
+    "dacron": 11175,
+    "fabric": 2964,
+    "covers_upholstery": 8811,
+    "banking_non_product": 1686,
+    "unknown": 17306,
+    "discount": 3308,
+    "other_product": 704,
+    "delivery": 1911
+  },
+  "review_needed_count": 17306,
+  "confidence_distribution": {
+    "0.0-0.5": 0,
+    "0.5-0.7": 39318,
+    "0.7-0.9": 43789,
+    "0.9-1.0": 0
+  },
+  "foam_code_counts": {
+    "29/200": 9813,
+    "23/130": 7131,
+    "29/400": 2308,
+    "30/130": 706,
+    "25/60": 583,
+    "27/30R": 477,
+    "26/160": 371,
+    "31/190": 352,
+    "35/200": 265,
+    "42/500": 213,
+    "31/320": 200,
+    "16/110": 194,
+    "31/200R": 171,
+    "38/200": 143,
+    "30/110": 129,
+    "50/25": 122,
+    "25/15": 112,
+    "75/50": 108,
+    "36/130": 71,
+    "36/100": 58
+  },
+  "foam_thickness_counts": {
+    "102": 5170,
+    "76": 5112,
+    "51": 3853,
+    "152": 3230,
+    "127": 1729,
+    "25": 1612,
+    "38": 699,
+    "100": 585,
+    "75": 547,
+    "50": 429,
+    "150": 375,
+    "2": 241,
+    "5": 196,
+    "10": 162,
+    "125": 143,
+    "7": 119,
+    "30": 112,
+    "1": 105,
+    "203": 86,
+    "12": 83
+  },
+  "fabric_brand_counts": {
+    "Warwick": 982,
+    "Sunbrella": 885,
+    "Keylargo": 40,
+    "Dickson": 37,
+    "Vistaweave": 14,
+    "Gilda": 2,
+    "Oscar": 1,
+    "Bingo": 1,
+    "Ashcroft": 1,
+    "Sauleda": 1
+  },
+  "fabric_environment_counts": {
+    "outdoor_suitable": 1423,
+    "unknown": 1541
+  },
+  "notes": [
+    "Heuristic-based extraction for foam codes and dimensions.",
+    "Fabric environment inferred from brands and invoice context.",
+    "Review needed flagged for unknown categories and low confidence matches."
+  ]
+}
